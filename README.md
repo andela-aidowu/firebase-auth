@@ -1,6 +1,6 @@
 firebase-auth
 ==========
-Simple wrapper around firebase authentication
+Simple wrapper around firebase token authentication
 
 
 ## Installation
